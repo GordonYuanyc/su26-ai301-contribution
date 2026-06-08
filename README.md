@@ -1,15 +1,15 @@
 # Contribution [#]: [Issue Title]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** Yancheng Yuan 
+**Issue:** https://github.com/InnerWarden/innerwarden/issues/856 
+**Status:** [Phase I] [Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it sits at an interesting intersection: InnerWarden is an AI-agent-driven system-maintenance system. It's a Rust toolchain built around collectors that watch the host (journald, eBPF, fanotify, etc.) (to most of the host, I just heard about it, but not sure what it is; I assume it's interersting to learn them). The issue itself seems to be feasible and self-contained. It's a testing issue. I think testing has the potential to become even more important in the age of vibe coding than it is today. I find potential in this issue as well as the repo.
 
 ---
 
